@@ -24,6 +24,10 @@ description: "What the? Use when the user wants a plain-English breakdown of som
 that sounds mad technical. explain to me the who, what, where, why, and when of this
 ```
 
+## Rules
+
+A microskill is a prompt that's a single sentence. Not a paragraph stuffed into a sentence — a sentence.
+
 ## License
 
 MIT
